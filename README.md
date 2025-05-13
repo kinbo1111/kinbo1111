@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kinbo — Full-Stack | Blockchain | AI | Mobile Engineer
+# 👋 Hi, I'm — Full-Stack | Blockchain | AI | Mobile Engineer
 
 ## 👨‍💻 About Me
 
