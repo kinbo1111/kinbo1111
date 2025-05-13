@@ -1,9 +1,5 @@
 # 👋 Hi, I'm Kinbo — Full-Stack | Blockchain | AI | Mobile Engineer
 
-Welcome to my digital playground! I build scalable systems across web, mobile, blockchain, and AI platforms.
-
----
-
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: **Smart contract platforms, AI toolkits, mobile-first dApps**
@@ -49,22 +45,6 @@ Welcome to my digital playground! I build scalable systems across web, mobile, b
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![Kinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
-
----
-
-## 🌟 Featured Projects
-
-- 🔗 [Web3 Voting DApp](https://github.com/yourusername/voting-dapp) – Solidity, React, IPFS
-- 🤖 [LLM-Powered Chatbot](https://github.com/yourusername/ai-chatbot) – FastAPI + LangChain + React
-- 📱 [Crypto Wallet Tracker](https://github.com/yourusername/crypto-tracker) – Flutter + Web3
-- 📊 [Next.js Admin Dashboard](https://github.com/yourusername/dev-dashboard) – Full-stack SaaS boilerplate
 
 ---
 
