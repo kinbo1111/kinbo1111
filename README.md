@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] — Full-Stack | Blockchain | AI | Mobile Engineer
+# 👋 Hi, I'm Kinbo — Full-Stack | Blockchain | AI | Mobile Engineer
 
 Welcome to my digital playground! I build things that live on the web, on-chain, and on your phone.
 
@@ -13,7 +13,6 @@ Welcome to my digital playground! I build things that live on the web, on-chain,
 - 📱 Mobile: **Flutter, React Native, native Android/iOS**
 - 🌐 Web: **Next.js, Node.js, Express, MongoDB, PostgreSQL**
 - 💬 Ask me about: **Building scalable apps, DeFi, smart contracts, AI deployment, mobile performance**
-- 📫 Reach me: **[youremail@example.com] or [your-linkedin]**
 
 ---
 
