@@ -54,7 +54,7 @@ Welcome to my digital playground! I build scalable systems across web, mobile, b
 
 ## 📊 GitHub Stats
 
-![YourName's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+![Kinbo's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
@@ -65,14 +65,6 @@ Welcome to my digital playground! I build scalable systems across web, mobile, b
 - 🤖 [LLM-Powered Chatbot](https://github.com/yourusername/ai-chatbot) – FastAPI + LangChain + React
 - 📱 [Crypto Wallet Tracker](https://github.com/yourusername/crypto-tracker) – Flutter + Web3
 - 📊 [Next.js Admin Dashboard](https://github.com/yourusername/dev-dashboard) – Full-stack SaaS boilerplate
-
----
-
-## 🌐 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=About.me&logoColor=white)](https://yourwebsite.com)
 
 ---
 
