@@ -1,15 +1,5 @@
 # I'm Full-Stack | Blockchain | AI | Mobile Engineer
 
-## 👨‍💻 About Me
-
-- 🔭 Currently working on: **Smart contract platforms, AI toolkits, mobile-first dApps**
-- 🌱 Exploring: **Zero-Knowledge Proofs, LLM fine-tuning, Cloud DevOps**
-- 💬 Ask me about: **AI deployment, scalable web apps, DeFi, APIs, or cross-platform mobile architecture**
-- 🧠 Passionate about: **Clean code, smart contracts, automation, and developer tools**
-- 🌍 Languages: **English (fluent), 日本語 (ビジネスレベル)**
-
----
-
 ## 🧰 Tech Stack
 
 ### Languages & Frameworks
