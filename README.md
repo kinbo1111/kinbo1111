@@ -1,4 +1,4 @@
-<h3 align="center">🌟 Senior Full-Stack & AI Engineer</h3>
+<h3 align="center">🌟 Senior Full-Stack & AI Engineer 🌟</h3>
 
 <p align="center">
   <em>🚀 Crafting elegant solutions at the intersection of web development and artificial intelligence.</em>
@@ -28,9 +28,9 @@ I'm an experienced full-stack engineer passionate about creating scalable and in
 
 | Project | Tech Stack | Achievement |
 |---------|------------|-------------|
-| [AI Content Automation](#) | TensorFlow, FastAPI | Improved content engagement by 40% |
-| [Decentralized Payment App](#) | Solidity, Web3.js, React | Over 50K transactions secured |
-| [Real-time Mobile Chat](#) | Flutter, Node.js | Achieved 100K downloads |
+| [AI Content Automation] | TensorFlow, FastAPI | Improved content engagement by 40% |
+| [Decentralized Payment App] | Solidity, Web3.js, React | Over 50K transactions secured |
+| [Real-time Mobile Chat] | Flutter, Node.js | Achieved 100K downloads |
 
 ## 📈 GitHub Stats
 
