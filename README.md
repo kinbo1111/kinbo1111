@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Full-Stack | Blockchain | AI | Mobile Engineer
+# I'm Full-Stack | Blockchain | AI | Mobile Engineer
 
 ## 👨‍💻 About Me
 
@@ -45,7 +45,3 @@
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
-
----
-
-⭐️ Thanks for checking out my profile!
