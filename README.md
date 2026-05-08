@@ -1,6 +1,4 @@
-<h3 align="center">🌟 Senior Full-Stack & AI Engineer 🌟</h3>
-
-## 🛠️ Technical Stack
+<h3 align="center"> Senior Full-Stack & AI Engineer </h3>
 
 **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square) ![Next.js](https://img.shields.io/badge/-Next.js-black?logo=next.js&logoColor=white&style=flat-square) ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&logoColor=white&style=flat-square)  ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-00C58E?logo=nuxt.js&logoColor=white&style=flat-square)  ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white&style=flat-square)  
 
